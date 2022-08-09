@@ -7,7 +7,7 @@ Made to be used with datapacks like:
  * [RecordEveryStatistic](https://github.com/tylastrog/RecordEveryStatistic)
  * [Vanilla Tweaks Track Raw Statistics](https://vanillatweaks.net/picker/datapacks/)
    
-I try to maintain this plugin that was made for me, and hopefully improve it a bit in the future. I'm pretty clueless about any (Java) development, so the code quality is probably horrible. The plugin works relative  well on my server, but you should use this project at your own risk. If you have a problem, you may open an issue or PR.
+I try to maintain this plugin that was made for me, and hopefully improve it a bit in the future. I'm pretty clueless about any (Java) development, so the code quality is probably horrible. The plugin works relatively well on my server, but you should use this project at your own risk. If you have a problem, you may open an issue or PR.
 
 ## Alternatives
 I'm pretty sure [samipourquoi's endtech bot](https://github.com/samipourquoi/endbot) has features to show objectives/statistics in Discord and their code quality is probably better, so I recommend you look at that.
