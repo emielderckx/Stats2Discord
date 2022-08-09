@@ -1,0 +1,6 @@
+name: Stats2Discord
+version: '${project.version}'
+main: nl.vloedje.stats2discord.Stats2Discord
+api-version: 1.19
+authors: [ EEstar, Christophe6 ]
+website: https://vloedje.nl/discord
